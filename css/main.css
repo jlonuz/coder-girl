@@ -1,0 +1,78 @@
+.photo-banner {
+	background-image: url(../img/home.jpg);
+	background-size: cover;
+	width:100%;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	margin-top:-20px;
+
+}
+.title {
+	color:white;
+}
+.title2 {
+	padding-top: 80px;
+}
+.subtitle {
+	padding-top: 50px;
+	padding-bottom: 30px;
+	opacity:0.8;
+}
+.coders {
+	font-size: 13px;
+}
+
+.video {
+	margin-top: 50px;
+}
+.margen {
+	padding-bottom: 50px;
+}
+.yellow {
+	background-color: yellow;
+	padding-bottom: 30px;
+}
+.subtitle-hack {
+	padding-bottom: 30px;
+	opacity:0.8;
+}
+.hack {
+	max-width: 100%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.box-hack {
+	padding-top: 50px;
+}
+.psyco {
+	
+}
+.psyco-pc {
+	padding-top:50px;
+	width:100%;
+}
+.subtitle-contact {
+	padding-top: 50px;
+}
+.address {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.imput {
+	margin-bottom: 5px;
+}
+
+
+
+
+.pie {
+	background-color: #219495;
+
+}
+.lab {
+	color:yellow;
+}
+.pieparrafo {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
